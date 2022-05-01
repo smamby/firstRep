@@ -5,6 +5,7 @@ body {
     background-color: rgb(187, 206, 201);
     text-align: center;
     max-width: 860px;
+    min-width: 532px;
 }
 h1 {
     font-size: 22px;
@@ -15,18 +16,26 @@ nav{
     text-align: left;
     max-width: 600px;
 }
+#ContNav{
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 20px 70px;
+}
 #titulos{
     font-weight: 700;
 }
 #cont {
     font-weight: 400;
 }
-
+#text {    
+    margin-left: 6em;
+    margin-right: auto;
+}
 iframe{
     background-color: bisque;
     min-width: 400px;
     padding: 8px;
-    border-radius: 10px;
+    border-radius: 10px;    
 }
 #cabecera {
     font-family: 'Lucida Sans', Arial, sans-serif;
