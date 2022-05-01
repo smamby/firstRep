@@ -1,7 +1,7 @@
 body {
     font-family: arial;
     color: rgb(151, 10, 85);
-    background-color: rgb(153, 211, 196);
+    background-color: rgb(171, 199, 191);
     text-align: center;
     max-width: 860px;
 }
@@ -10,4 +10,10 @@ nav{
     margin-right: auto;
     text-align: left;
     max-width: 600px;
+}
+#titulos{
+    font-weight: 700;
+}
+#cont {
+    font-weight: 400;
 }
