@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+    color: rgb(151, 10, 85);
+    background-color: rgb(153, 211, 196);
+    text-align: center;
+    max-width: 860px;
+}
+nav{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    max-width: 600px;
+}

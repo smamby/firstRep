@@ -1,0 +1,13 @@
+Ejercicio basico de repositorio
+
+cada vez que quiera guardar una version voy a 
+subirlo al area stage que solo de deja en memoria
+luego al repositorio definitivamente
+
+If I want to save someone version of my proyect
+I must getup to stage area first. But it stays only in 
+memory. For getin it into the repository I have use
+the commit command. I have remember to write a comentary
+for to know which is the changes what I want to save in
+this new version.
+
