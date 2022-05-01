@@ -11,5 +11,8 @@ the commit command. I have remembered to write a
 commentary for to know which is the changes 
 what I want to save in this new version.
 
+Now, we will try to learn how to be an expert to setting our 
+different branches. Be careful, we must dominate the 
+checkout command, and the reset and brnch comman too.
 
 
